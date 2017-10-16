@@ -1,7 +1,7 @@
 fileFormatVersion: 2
-guid: 410f79ea038b44596abde7838300a120
-timeCreated: 1464171959
-licenseType: Store
+guid: 0f42c19839def474998bd6042381e4b1
+timeCreated: 1508003641
+licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
@@ -115,33 +115,33 @@ ModelImporter:
     3300048: wheels_4
     3300050: whiteboard
     3300052: workbench_a
-    4300000: wheel_shelf_c
-    4300002: wheel_shelf_b
-    4300004: wheel_shelf_a
-    4300006: boxes.003
-    4300008: boxes.002
-    4300010: boxes.001
-    4300012: boxes
-    4300014: whiteboard
-    4300016: tool_shelf_orgenizer
-    4300018: pinboard
-    4300020: oil_shelf
-    4300022: wheels_4
-    4300024: rolldoors_opened
+    4300000: warehouse_walls
+    4300002: toolshelf_red_a3
+    4300004: toolshelf_yellow_a1
+    4300006: toolbox_red_a
+    4300008: toolbox_red_b
+    4300010: toolshelf_red_a1
+    4300012: toolshelf_red_a
+    4300014: workbench_a
+    4300016: tanks_2
+    4300018: tanks_1
+    4300020: tanks_3
+    4300022: wheels_1
+    4300024: wheels_2
     4300026: rolldoors_closed
-    4300028: wheels_2
-    4300030: wheels_1
-    4300032: tanks_3
-    4300034: tanks_1
-    4300036: tanks_2
-    4300038: workbench_a
-    4300040: toolshelf_red_a
-    4300042: toolshelf_red_a1
-    4300044: toolbox_red_b
-    4300046: toolbox_red_a
-    4300048: toolshelf_yellow_a1
-    4300050: toolshelf_red_a3
-    4300052: warehouse_walls
+    4300028: rolldoors_opened
+    4300030: wheels_4
+    4300032: oil_shelf
+    4300034: pinboard
+    4300036: tool_shelf_orgenizer
+    4300038: whiteboard
+    4300040: boxes
+    4300042: boxes.001
+    4300044: boxes.002
+    4300046: boxes.003
+    4300048: wheel_shelf_a
+    4300050: wheel_shelf_b
+    4300052: wheel_shelf_c
     6400000: boxes
     6400002: boxes.001
     6400004: boxes.002
@@ -201,10 +201,10 @@ ModelImporter:
     addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
+    importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -218,7 +218,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -236,7 +236,7 @@ ModelImporter:
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
-    skeletonHasParents: 0
+    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
   humanoidOversampling: 1
